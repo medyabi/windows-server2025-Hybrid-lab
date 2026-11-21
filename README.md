@@ -4,6 +4,8 @@ Hands-on labs for presales engineers: Windows Server 2025 on-premises, managed f
 
 Nine labs, one VM each, about 8 hours — plan two days. Labs 2–8 are the **hybrid** track with Azure Arc; Labs 1 and 9 cover Windows Server 2025 on its own. Every lab ends with **customer talking points**, because the goal is not just to click through — it's to answer the customer's question in the meeting.
 
+> **New to Windows Server?** Start with **[Level 100: Foundations](foundations/README.md)**: five 30-minute labs on editions, licensing, roles, admin tools and storage. These hybrid labs are Level 200.
+
 So what do you get? Each presales engineer has their own **Windows Server 2025 Datacenter (Desktop Experience)** VM on our Dell R740 Hyper-V host. It's already activated, has Remote Desktop on, and has internet access.
 
 | Lab | What you'll be able to show a customer | Time | Azure cost |
